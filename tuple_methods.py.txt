@@ -1,0 +1,18 @@
+'''
+Tuple methods
+'''
+
+#1. count()
+'''
+tup1 = (1,2,4,5,1,2,3)
+count = tup1.count(1) 
+print(count)
+'''
+
+#2. index()
+'''
+tup1 = (1,2,3,2,4,1,4,3,6,5)
+res = tup1.index(2)
+print(res)
+'''
+
